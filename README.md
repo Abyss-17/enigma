@@ -4,6 +4,7 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Installation](#installation)
+- [How to Use ?!](#How-to-Use-?!)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -38,7 +39,11 @@ git clone https://github.com/Abyss-17/enigma
 cd enigma
 python enigma
 ```
+## How to Use ?!
+To use the Enigma cipher machine for encrypting or decrypting messages, simply run the `python enigma` command in your terminal and follow the prompts.
+
 ## contribution
 Me , ChatGPT , Gemini 😅
 
 ## contact
+For any questions or suggestions, feel free to reach out to the project maintainer at your.email@example.com                                       Also Knock us if you need any **custom program or code** 
